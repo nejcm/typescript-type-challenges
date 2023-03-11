@@ -1,2 +1,3 @@
-# typescript-type-challenges
- Typescript type challanges
+# Typescript type challanges
+
+[Link](https://github.com/type-challenges/type-challenges)
